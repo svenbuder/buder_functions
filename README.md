@@ -12,8 +12,8 @@ Upgrading to latest version in command line:
 user@computer:~$ python -m pip install --index-url https://test.pypi.org/simple/ --no-deps buder_functions --upgrade
 ```
 
-## Category: Plotting
+## buder_plotting.py
 
-buder_functions.example(number)
+buder_plotting.hist2d_bin_colored(X,Y,Z) creates a 2-dimensional histogram (with X and Y as input) with bins colored by Z.
 
 This package was created following the tutorial on https://packaging.python.org/en/latest/tutorials/packaging-projects/
