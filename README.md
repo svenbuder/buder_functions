@@ -16,4 +16,6 @@ user@computer:~$ python -m pip install --index-url https://test.pypi.org/simple/
 
 buder_plotting.hist2d_bin_colored(X,Y,Z) creates a 2-dimensional histogram (with X and Y as input) with bins colored by Z.
 
+## Acknowledgement
+
 This package was created following the tutorial on https://packaging.python.org/en/latest/tutorials/packaging-projects/
