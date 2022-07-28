@@ -3,11 +3,14 @@
 ## Installation
 
 First installation in command line:
->>> python -m pip install --index-url https://test.pypi.org/simple/ --no-deps buder_functions
+```console
+user@computer:~$ python -m pip install --index-url https://test.pypi.org/simple/ --no-deps buder_functions
+```
 
 Upgrading to latest version in command line:
->>> python -m pip install --index-url https://test.pypi.org/simple/ --no-deps buder_functions --upgrade
-
+```console
+user@computer:~$ python -m pip install --index-url https://test.pypi.org/simple/ --no-deps buder_functions --upgrade
+```
 
 ## Category: Plotting
 
